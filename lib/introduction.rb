@@ -7,7 +7,7 @@
 def introduction(name)
   puts "Hi, my name is #{name}."
 end
-introduction()
+introduction("Mario")
 # end of method with one parameter
 
 # 2nd method with two parameters
