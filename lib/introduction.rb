@@ -12,19 +12,6 @@ introduction("Mario")
 
 # end of method with one parameter
 
-# 2nd method with two parameters
-def introduction_with_language()
-
-end
-
-# end of method with two parameters
-
-# 3rd method with optional parameter
-def
-
-end
-
-# end of method with optional parameter
 
 
 
