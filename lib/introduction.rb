@@ -12,10 +12,12 @@ introduction("Mario")
 
 # end of method with one parameter
 
+# method with 2 parameters
+def introduction_with_language(name, language)
+  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+end
 
-
-
-
+introduction_with_language("Yordin", "Ruby")
 
 
 
